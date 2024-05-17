@@ -20,5 +20,5 @@ The ETL Project focuses on extracting internet log files into a data warehouse f
 
 ## Documentation
 - Sun model design: 2543320_SunModel.pptx
-- Dashboard: 
+- Dashboard: ETLDashboard.pbix
 
